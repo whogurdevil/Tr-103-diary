@@ -38,4 +38,3 @@
 - **July 8:** Discussed potential future scope and enhancements.
 - **July 9:** Prepared the final project presentation.
 - **July 10:** Concluded training and submitted the report.
-- 
